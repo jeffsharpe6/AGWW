@@ -1,0 +1,16 @@
+www.active-domain.com
+
+User Name : LynetteS
+Password  : 401cP3414
+
+Using user defined nameservers:
+ns01.000webhost.com
+ns02.000webhost.com
+
+
+Auth code: 5oxFeZBoVS
+
+
+From Go Daddy:
+Transaction ID: 170255333
+Security Code: BYDH65987
